@@ -1,0 +1,28 @@
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\itHub\2 курс (1 семестр)\C#\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\itHub College\2 курс (1 семестр)\C#\KT6\test15\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
