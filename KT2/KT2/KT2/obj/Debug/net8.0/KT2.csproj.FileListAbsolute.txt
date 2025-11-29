@@ -1,0 +1,14 @@
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.GeneratedMSBuildEditorConfig.editorconfig
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.AssemblyInfoInputs.cache
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.AssemblyInfo.cs
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.csproj.CoreCompileInputs.cache
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\bin\Debug\net8.0\KT2.exe
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\bin\Debug\net8.0\KT2.deps.json
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\bin\Debug\net8.0\KT2.runtimeconfig.json
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\bin\Debug\net8.0\KT2.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\bin\Debug\net8.0\KT2.pdb
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\refint\KT2.dll
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.pdb
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\KT2.genruntimeconfig.cache
+E:\itHub College\2 курс (1 семестр)\C#\KT2\KT2\KT2\obj\Debug\net8.0\ref\KT2.dll
